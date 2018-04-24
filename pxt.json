@@ -7,7 +7,7 @@
         "core": "*"
     },
     "files": [
-       "main.ts"
+       "NTC.ts"
     ],
     "testFiles": [
         "test.ts"
